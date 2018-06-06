@@ -6,6 +6,8 @@ body {
 }
 header {
     background-color: #EEEEEE;
+    width: 100%;
+    padding: 0;
 }
 header h1, h4 {
     margin: 0px 15px 0px 15px;
@@ -17,9 +19,7 @@ header li {
     display: inline-block;
     list-style-type: none;
 }
-#header-left, #header-right {
-    padding: 0px;
-}
+
 header ul {
     margin: 0px;
     padding: 0px;
@@ -28,6 +28,6 @@ header ul {
 #button-box, #search-box {
     padding-top: 15px;
 }
-img {
-    padding: 0px;
+container {
+    padding: 0;
 }
