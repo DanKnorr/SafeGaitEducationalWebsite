@@ -1,0 +1,22 @@
+#video {
+    margin-right: 20px;
+    height: 60vh;
+    width: 100%;
+}
+#container {
+    width: 100%;
+    display: flex;
+}
+
+.card-header{
+    background-color: #358ec7;
+}
+.btn-link {
+    color: white;
+}
+#accordion2 {
+    margin-top: 50px;
+}
+.check {
+    margin: 0 auto;
+}
