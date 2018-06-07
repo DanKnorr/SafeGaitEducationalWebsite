@@ -18,11 +18,14 @@ header li {
     display: inline-block;
     list-style-type: none;
 }
-
+#header-right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
 header ul {
     margin: 0px;
     padding: 0px;
-
 }
 #button-box, #search-box {
     padding-top: 15px;
@@ -32,4 +35,14 @@ container {
 }
 footer {
     padding-top: 30px;
+}
+#front-page-picture {
+    width: 100%;
+}
+button {
+    height: 75px;
+    width: 100px;
+}
+.button-text {
+    font-size: 20px;
 }
